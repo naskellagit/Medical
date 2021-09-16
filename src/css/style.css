@@ -61,7 +61,7 @@ body{
     z-index: 2;
 }
 .progress-line{
-    width: 50%;
+    width: 0%;
     height: 100%;
     background-color: blue;
     transition: width 0.3s linear
